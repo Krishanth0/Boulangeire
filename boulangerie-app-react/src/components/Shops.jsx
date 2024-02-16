@@ -4,7 +4,7 @@ const Shops = () => {
   return (
     <div className=' w-full h-full bg-yellow-50'>
     <div>
-      <h2 className='text-black text-center text-4xl font-bold '>Nos Boutiques</h2>
+      <h1 className='text-black text-center text-4xl font-bold '>Nos Boutiques</h1>
     </div>
     <div className='flex flex-row mt-5 justify-around text-center'>
 

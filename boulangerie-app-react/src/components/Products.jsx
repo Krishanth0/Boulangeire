@@ -8,7 +8,7 @@ const Products = () => {
   return (
     <div className=' w-full h-full bg-yellow-50'>
       <div>
-        <h2 className='text-black text-center text-4xl font-bold '>Nos Produits</h2>
+        <h1 className='text-black text-center text-4xl font-bold '>Nos Produits</h1>
       </div>
       <div className='flex flex-row px-3 mt-4 justify-around'>
 
