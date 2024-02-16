@@ -10,7 +10,7 @@ import image7 from '../assets/galerie7.png';
 const Gallery = () => {
   return (
     <div className="container mx-auto p-8">
-      <h2 className="text-black text-center text-4xl font-bold mb-4">Galerie</h2>
+      <h1 className="text-black text-center text-4xl font-bold mb-4">Galerie</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         <img src={image1} alt="/" className="w-full h-full object-cover" />
         <img src={image2} alt="/" className="w-full h-full object-cover" />
