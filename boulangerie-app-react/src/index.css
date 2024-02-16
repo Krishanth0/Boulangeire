@@ -2,3 +2,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dancing-script {
+    font-family: 'Dancing Script', cursive;
+  }
+
+  h1 {
+    @apply dancing-script;
+  }
