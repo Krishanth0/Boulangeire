@@ -6,7 +6,7 @@ import img4 from '../assets/produit-snack.png'
 
 const Products = () => {
   return (
-    <div className=' w-full h-full bg-yellow-50'>
+    <div className=' w-full h-full bg-yellow-50 p-20'>
       <div>
         <h1 className='text-black text-center text-4xl font-bold '>Nos Produits</h1>
       </div>
