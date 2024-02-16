@@ -6,7 +6,7 @@ const Header = () => {
     <div className="relative">
       <img src={bg} alt="/" className="w-full h-full" />
 
-      <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white">
+      <div className="absolute inset-0 flex flex-col items-center justify-center text-white">
         <h1 className="text-4xl font-bold mb-2">Boulangerie & Patisserie</h1>
         <h2 className="text-xl mb-4">PARIS-LILE-TOULOUSE</h2>
         <button className="bg-transparent border-white border px-4 py-2 text-white">Contactez-Nous</button>
