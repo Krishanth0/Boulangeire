@@ -6,7 +6,7 @@ const Reviews = () => {
     <div className='relative w-full h-full'>
       <img src={bg} alt="/" className="w-full h-full" />
 
-      <div className="absolute inset-0 flex flex-col items-center justify-space-evenly text-white">
+      <div className="absolute inset-0 flex flex-col items-center justify-evenly text-white">
         <h1 className="text-4xl font-bold mb-2">Avis</h1>
         <h2 className="text-4xl font-bold">Eva Bouvet</h2>
         <p className="text-2xl mb-4">
