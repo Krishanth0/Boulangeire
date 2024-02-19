@@ -10,7 +10,7 @@ const Contact = () => {
     <div className='bg-yellow-50 m-0 p-0 min-[100vh] relative'>
       <img src={tour} alt="tour" className="absolute bottom-0 left-0 w-[200] h-[200]" />
       <div className='flex justify-center items-center flex-col'>
-        <h1 className='text-center text-black text-4xl font-bold mb-7 mt-28'>Contactez-nous <img src={cafe} alt="cafe" className="w-[10] h-[10]" /></h1>
+        <h1 className='text-center text-black text-4xl font-bold mb-7 mt-28'>Contactez-nous <img src={cafe} alt="cafe" className="w-10 h-10" /></h1>
         <div className='bg-yellow-50 w-2/5 p-6 rounded-lg shadow-md'>
           <form className='mx-auto'>
             <div className='my-3 mx-auto'>
