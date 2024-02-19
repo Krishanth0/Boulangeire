@@ -9,7 +9,7 @@ const Header = () => {
       <img src={bg} alt="/" className="w-full h-full" />
 
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white font-semibold">
-        <h1 className="text-[110px] mb-2">Boulangerie & Patisserie</h1>
+        <h1 className="text-[110px] mb-2">TEST</h1>
         <h2 className="text-[32px] mb-4 relative">
           <img src={line} alt="Line" className="absolute top-1/2 left-[-160px] " />
           PARIS • LILE • TOULOUSE
