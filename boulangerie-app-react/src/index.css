@@ -6,7 +6,17 @@
 .dancing-script {
     font-family: 'Dancing Script', cursive;
   }
-
+  .Montserrat {
+    font-family: 'Montserrat';
+  }
   h1 {
     @apply dancing-script;
+  }
+
+  p{
+    @apply Montserrat;
+  }
+
+  h2{
+    @apply Montserrat;
   }
